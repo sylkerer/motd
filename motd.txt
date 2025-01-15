@@ -2,3 +2,4 @@ Welcome to the game!
 This is the first version.
 Please make sure to read rules
 and branch as good as you can
+test
